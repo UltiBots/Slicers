@@ -1,0 +1,1 @@
+Please note these config files have been provided by community members. They are not fully tested by UltiBots. Please post comments, feedback, etc... on our forum http://forum.ultibots.com/viewforum.php?f=11.
